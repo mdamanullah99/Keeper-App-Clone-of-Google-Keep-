@@ -1,7 +1,7 @@
 # Keeper App ( Clone of Google Keep )
-##Features:
+## Features:
 1. Make Notes, Delete them.
-##Packages:
+## Packages:
 ````bash
 "dependencies": {
     "react": "^18.3.1",
@@ -14,7 +14,7 @@
     "@emotion/styled": "^11.11.0"
   }
 ````
-##ScreenShots:
+## ScreenShots:
 1.
 ![ss3](https://github.com/user-attachments/assets/80a18074-1535-423d-961d-bd44296f27a5)
 2.
